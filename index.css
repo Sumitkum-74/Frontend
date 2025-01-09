@@ -1,7 +1,20 @@
 *{
-    box-sizing: content-box;
+    box-sizing: border-box;
     
 }  
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+}
+
 body{
     color: hsl(0, 0%, 100%);
     background-color: hsl(0, 0%, 8%) ;
@@ -9,6 +22,8 @@ body{
     display:flex;
     align-items: center;
     justify-content: center;
+    font-size: 14px;
+    font-family: [inter];
     
 
 }
@@ -17,26 +32,52 @@ body{
     text-align: center;
     text-decoration: none;
     padding:20px;
-    height: 400px;
-    width:300;
+    min-height: 500px;
+    width: 350px;
     font-size: 14px;
     border-radius: 12px;
+    
     
 }
 .card img{
     border-radius: 50%;
 }
+.profile h4{
+    color:hsl(75, 94%, 57%);
+}
+.profile img{
+    width: 100px;
+    height: auto;
+}
 .profile-links{
-    display:block;
+    display: flex;
+    flex-direction: column; /* Stack links vertically */
+    align-items: center; /* Center links horizontally */
+    margin-top: 10px;
+    margin: 15px;
 }
 .profile-links ul{
     list-style-type: none;
-    width:100%;
-    
+    padding:0;
+    margin:0;
+    width:100%;  
 }
 .profile-link{
     background-color: hsl(0, 0%, 20%);
     padding:10px;
     border-radius: 8px;
     width:100%;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.profile-link a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto',sans-serif;
+    font-weight:600;
+}
+.profile-link:hover {
+    background-color: hsl(75, 94%, 57%);
+    a {color:black;} 
 }
