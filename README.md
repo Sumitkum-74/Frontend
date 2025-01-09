@@ -17,6 +17,11 @@ This repository contains the HTML and CSS code for a simple profile card.
 **Screenshots:**
 
 ![Project Screenshot](profile-asset/design/destkop-design.jpg)
+For desktop
+<img src="profile-asset/design/destkop-design.jpg" alt="Screenshot" width="600">
+For mobile
+<img src="profile-asset/design/mobile-design.jpg" alt="Screenshot" width="300">
+
 
 **Contributing:**
 
