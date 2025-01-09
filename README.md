@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend
 # Profile Card Project
 
@@ -50,3 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [sumit kumar] - [sumitkum171201@gmail.com] - [www.linkedin.com/in/sumit-kumar-3052b1272
 
 ]
+=======
+# Frontend
+>>>>>>> bd7890e (add a file structure)
