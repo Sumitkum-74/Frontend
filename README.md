@@ -16,7 +16,7 @@ This repository contains the HTML and CSS code for a simple profile card.
 
 **Screenshots:**
 
-[![Profile Card Screenshot](about:sanitized)](https://www.google.com/url?sa=E&source=gmail&q=profile-card-screenshot.png)
+![Project Screenshot](profile-asset/design/destkop-design.jpg)
 
 **Contributing:**
 
