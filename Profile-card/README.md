@@ -43,13 +43,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Acknowledgments:**
 
-* Inspiration for the design was drawn from [mention any sources of inspiration].
+* Inspiration for the design was drawn from Frontend Mentor.
 
 **Contact:**
 
-* [sumit kumar] - [sumitkum171201@gmail.com] - [www.linkedin.com/in/sumit-kumar-3052b1272
-
-]
-=======
-# Frontend
->>>>>>> bd7890e (add a file structure)
+* sumit kumar - sumitkum171201@gmail.com - www.linkedin.com/in/sumit-kumar-3052b1272
